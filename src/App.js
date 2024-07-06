@@ -101,7 +101,7 @@ function App() {
 <section className="home" id="home">
     <div className="home-content">
         <h3>Hello, I am</h3>
-        <h1>Cristian Chiriac</h1>
+        <h1>Walid Abed</h1>
         <p>
             I'm a web developer who loves to create beautiful and functional websites
             for people who want to make a difference in the world.
@@ -110,10 +110,10 @@ function App() {
         create beautiful and functional websites using HTML, CSS, JavaScript, and WordPress.</p>
 
         <div className="social-media">
-            <a href="#"><i className='bx bxl-facebook'></i></a>
-            <a href="#"><i className='bx bxl-twitter'></i></a>
-            <a href="#"><i className='bx bxl-instagram-alt'></i></a>
-            <a href="#"><i className='bx bxl-linkedin'></i></a>
+            <a href="https://www.facebook.com/walidabed0/" target="_blank"><i className='bx bxl-facebook'></i></a>
+            <a href="https://x.com/walidabed00" target="_blank"><i className='bx bxl-twitter'></i></a>
+            <a href="https://www.instagram.com/walidabed0/" target="_blank"><i className='bx bxl-instagram-alt'></i></a>
+            <a href="https://www.linkedin.com/in/walid-abed/" target="_blank"><i className='bx bxl-linkedin'></i></a>
         </div>
 
         <a href="#" className="btn">Download CV</a>
@@ -127,15 +127,11 @@ function App() {
             </div>
             <div className="profession" style={{ '--i': 1 }}>
                 <i className='bx bx-camera'></i>
-                <h3>Photographer</h3>
+                <h3>Mobile Developer</h3>
             </div>
             <div className="profession" style={{ '--i': 2 }}>
                 <i className='bx bx-palette'></i>
                 <h3>Web Designer</h3>
-            </div>
-            <div className="profession" style={{ '--i': 3 }}>
-                <i className='bx bx-video-recording'></i>
-                <h3>Videographer</h3>
             </div>
 
             <div className="circle"></div>
@@ -157,7 +153,7 @@ function App() {
     <div className="about-content">
         <h2 className="heading">About <span>Me</span></h2>
         <h3>
-            Hi there, welcome to my website! I'm Cristian,
+            Hi there, welcome to my website! I'm Walid,
             a passionate web developer who enjoys learning new technologies
             and solving problems with code!
         </h3>
