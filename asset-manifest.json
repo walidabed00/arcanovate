@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/walid-portfolio/static/css/main.b37cfc24.css",
+    "main.css": "/walid-portfolio/static/css/main.39498f74.css",
     "main.js": "/walid-portfolio/static/js/main.175cae88.js",
     "static/media/home.png": "/walid-portfolio/static/media/home.d70e2735eaffafb748aa.png",
     "static/media/about.png": "/walid-portfolio/static/media/about.9dd4d2e85a8ee271bea1.png",
@@ -14,11 +14,11 @@
     "static/media/portfolio1.jpg": "/walid-portfolio/static/media/portfolio1.742be53760223b5d66e5.jpg",
     "static/media/portfolio5.jpg": "/walid-portfolio/static/media/portfolio5.41bda4b59d1897fdc95f.jpg",
     "index.html": "/walid-portfolio/index.html",
-    "main.b37cfc24.css.map": "/walid-portfolio/static/css/main.b37cfc24.css.map",
+    "main.39498f74.css.map": "/walid-portfolio/static/css/main.39498f74.css.map",
     "main.175cae88.js.map": "/walid-portfolio/static/js/main.175cae88.js.map"
   },
   "entrypoints": [
-    "static/css/main.b37cfc24.css",
+    "static/css/main.39498f74.css",
     "static/js/main.175cae88.js"
   ]
 }
