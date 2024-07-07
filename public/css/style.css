@@ -14,7 +14,7 @@
 :root {
     --bg-color: #fdfdfd;
     --text-color: #333;
-    --main-color: #754ef9;
+    --main-color: #733794;
     --white-color: #fdfdfd;
     --shadow-color: rgba(0, 0, 0, .2);
 }
@@ -291,7 +291,7 @@ section {
     bottom: 0;
     right: 40px;
     pointer-events: none;
-    max-width: 480px;
+    max-width: 600px;
     max-height: 100vh;
 }
 
@@ -642,7 +642,7 @@ span {
     }
 
     .home-img img {
-        max-width: 420px;
+        max-width: 480px;
     }
 }
 
@@ -664,7 +664,7 @@ span {
     }
 
     .home-img img {
-        max-width: 400px;
+        max-width: 440px;
     }
 }
 
