@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/walid-portfolio/static/css/main.10ceb831.css",
-    "main.js": "/walid-portfolio/static/js/main.7468c8d8.js",
-    "static/media/home.png": "/walid-portfolio/static/media/home.d70e2735eaffafb748aa.png",
-    "static/media/about.png": "/walid-portfolio/static/media/about.9dd4d2e85a8ee271bea1.png",
-    "static/media/portfolio4.jpg": "/walid-portfolio/static/media/portfolio4.a297047181fbb77a7667.jpg",
-    "static/media/portfolio2.jpg": "/walid-portfolio/static/media/portfolio2.15c7ada92889dcbf4cd5.jpg",
-    "static/media/testimonial3.jpg": "/walid-portfolio/static/media/testimonial3.975e66d32865ac46b941.jpg",
-    "static/media/testimonial1.jpg": "/walid-portfolio/static/media/testimonial1.b31cbf55790974054f5d.jpg",
-    "static/media/portfolio3.jpg": "/walid-portfolio/static/media/portfolio3.c0753a31b3e672aba394.jpg",
-    "static/media/testimonial2.jpg": "/walid-portfolio/static/media/testimonial2.39215abb5a4596b91090.jpg",
-    "static/media/portfolio6.jpg": "/walid-portfolio/static/media/portfolio6.a786c538251245f44972.jpg",
-    "static/media/portfolio1.jpg": "/walid-portfolio/static/media/portfolio1.742be53760223b5d66e5.jpg",
-    "static/media/portfolio5.jpg": "/walid-portfolio/static/media/portfolio5.41bda4b59d1897fdc95f.jpg",
-    "index.html": "/walid-portfolio/index.html",
-    "main.10ceb831.css.map": "/walid-portfolio/static/css/main.10ceb831.css.map",
-    "main.7468c8d8.js.map": "/walid-portfolio/static/js/main.7468c8d8.js.map"
+    "main.css": "/arcanovate/static/css/main.10ceb831.css",
+    "main.js": "/arcanovate/static/js/main.fcb35e0f.js",
+    "static/media/home.png": "/arcanovate/static/media/home.d70e2735eaffafb748aa.png",
+    "static/media/about.png": "/arcanovate/static/media/about.9dd4d2e85a8ee271bea1.png",
+    "static/media/portfolio4.jpg": "/arcanovate/static/media/portfolio4.a297047181fbb77a7667.jpg",
+    "static/media/portfolio2.jpg": "/arcanovate/static/media/portfolio2.15c7ada92889dcbf4cd5.jpg",
+    "static/media/testimonial3.jpg": "/arcanovate/static/media/testimonial3.975e66d32865ac46b941.jpg",
+    "static/media/testimonial1.jpg": "/arcanovate/static/media/testimonial1.b31cbf55790974054f5d.jpg",
+    "static/media/portfolio3.jpg": "/arcanovate/static/media/portfolio3.c0753a31b3e672aba394.jpg",
+    "static/media/testimonial2.jpg": "/arcanovate/static/media/testimonial2.39215abb5a4596b91090.jpg",
+    "static/media/portfolio6.jpg": "/arcanovate/static/media/portfolio6.a786c538251245f44972.jpg",
+    "static/media/portfolio1.jpg": "/arcanovate/static/media/portfolio1.742be53760223b5d66e5.jpg",
+    "static/media/portfolio5.jpg": "/arcanovate/static/media/portfolio5.41bda4b59d1897fdc95f.jpg",
+    "index.html": "/arcanovate/index.html",
+    "main.10ceb831.css.map": "/arcanovate/static/css/main.10ceb831.css.map",
+    "main.fcb35e0f.js.map": "/arcanovate/static/js/main.fcb35e0f.js.map"
   },
   "entrypoints": [
     "static/css/main.10ceb831.css",
-    "static/js/main.7468c8d8.js"
+    "static/js/main.fcb35e0f.js"
   ]
 }
